@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: #313131;
+}
+#grafico{
+    height: 300px; 
+    margin: 2rem;
+    width: 100%;
+}
+.card{
+    display: grid;
+    grid-template-columns: 15rem 1fr;
+}
+.card-body{
+    font-size: .75em;
+}
+.image-principal{
+    margin: 1rem;
+    width: 30rem;
+}
+.logo{
+    margin: 1rem;
+    width: 3rem;
+}
